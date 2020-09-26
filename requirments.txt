@@ -1,0 +1,10 @@
+flask
+matplotlib
+numpy
+pandas
+openpyxl
+nidaqmx
+scipy
+xlrd
+sklearn
+serial
