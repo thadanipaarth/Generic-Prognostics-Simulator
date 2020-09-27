@@ -2,6 +2,8 @@
 
 This repository contains an application that predicts the breakdown time using Reliablity Analysis by simulating the component at various speeds and recoding the reading through an accelerometer. It was presented at International Conference on Precision, Meso, Micro and Nano Engineering.
 
+The project poster can be viewed [here](./Project_Poster.pdf) and demo video of the application can be viewed [here](https://youtu.be/w2jPJMDxUsw).
+
 <ins><strong>NOTE:</strong> This repository only contains demo application displaying the functionality using sample documents. The final application is yet to be made Open-Source. However, the technologies used and user-interface will remain the same. Stay updated for the same!</ins>
 
 ### Directory Overview
