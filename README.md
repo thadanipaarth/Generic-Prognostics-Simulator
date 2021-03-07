@@ -1,6 +1,6 @@
 # Generic-Prognostic-Simulator
 
-This repository contains an application that predicts the breakdown time using Reliablity Analysis by simulating the component at various speeds and recoding the reading through an accelerometer. It was presented at International Conference on Precision, Meso, Micro and Nano Engineering.
+This repository contains an application that predicts the breakdown time using Reliablity Analysis by simulating the component at various speeds and recoding the reading through an accelerometer. It was presented at **International Conference on Precision, Meso, Micro & Nano Engineering**.
 
 The project poster can be viewed [here](./Project_Poster.pdf) and demo video of the application can be viewed [here](https://youtu.be/w2jPJMDxUsw).
 
