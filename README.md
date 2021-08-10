@@ -4,7 +4,7 @@ This repository contains an application that predicts the breakdown time using R
 
 The project poster can be viewed [here](./Project_Poster.pdf) and demo video of the application can be viewed [here](https://youtu.be/w2jPJMDxUsw).
 
-<ins><strong>NOTE:</strong> This repository only contains demo application displaying the functionality using sample documents. The final application is yet to be made Open-Source. However, the technologies used and user-interface will remain the same. Stay updated for the same!</ins>
+<ins><strong>NOTE:</strong> This repository only contains demo application displaying the functionality using sample documents. The final application is yet to be made Open-Source. However, the functionality and user-interface will remain the same. Stay updated for the same!</ins>
 
 ### Directory Overview
 1. [main.py](./main.py) contains the backend of the application. '/enter' route is used for running the model and fetching the required readings, other roots are self-explainatory. Refer [main.py](./main.py) for further information.
